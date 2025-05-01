@@ -9,6 +9,7 @@ dependencies = [
     "datasets>=3.3.0",
     "huggingface-hub>=0.28.1",
     "jupyter>=1.1.1",
+    "matplotlib>=3.10.1",
     "ollama>=0.4.7",
     "peft>=0.14.0",
     "psycopg>=3.2.4",
